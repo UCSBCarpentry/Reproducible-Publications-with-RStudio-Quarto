@@ -1,6 +1,6 @@
 ---
 title: "Scientific reproducibility: What is it for?"
-teaching: 10
+teaching: 0
 exercises: 00
 start: true
 questions:
